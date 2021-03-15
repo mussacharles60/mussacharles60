@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mussacharles60@gmail.com**
 
-- ⚡ Fun fact **I learn New Things Every minute**
+- ⚡ Fun fact ***I learn New Things Every minute, & Why On Earth I'm Still Single?***
 
 <p align="center"> 
   <a href="https://twitter.com/mussacharles60" target="blank">
