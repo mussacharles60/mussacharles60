@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="mussacharles60" /> </a> </p> 
 - 📝 I regularly write articles on [mussacharles60.blogspot.com](mussacharles60.blogspot.com) -->
 
-- 🔭 I’m currently working on [Myssa App](www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Angular & Python ...** for the next big thing
+- 🔭 I’m currently working on [Myssa App](https://www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Angular & Python ...** for the next big thing
 
 - 👨‍💻 You can view my projects through [this link](www.instagram.com/mussacharles60)
 
