@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mussa Charles (Myssa)</h1>
-<h3 align="center">A Full Stack Developer (from :tanzania: ) h3>
+<h3 align="center">A Full Stack Developer (from &#1F1F9;&#1F1FF; ) h3>
 <img align="left" src="https://user-images.githubusercontent.com/35903944/111223103-c2fc7380-85ed-11eb-8b41-8f02cfd48b5b.png" alt="mussacharles60" />
 <p> 
 <h3 align="center">I'm Electronics designer, Hardware & Software Developer</h3>
@@ -47,3 +47,4 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&locale=en" alt="mussacharles60" /></p>
 </p>
 
+:tanzania: :tanzania: :tanzania:
