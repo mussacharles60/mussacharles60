@@ -5,13 +5,12 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussacharles60&label=Profile%20views&color=0e75b6&style=flat" alt="mussacharles60" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="mussacharles60" /> </a> </p> --!>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="mussacharles60" /> </a> </p> 
+- 📝 I regularly write articles on [mussacharles60.blogspot.com](mussacharles60.blogspot.com)--!>
 
 - 🔭 I’m currently working on [Myssa App](www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Python ...** for the next big thing
 
 - 👨‍💻 You can view my projects through [this link](www.instagram.com/mussacharles60)
-
-- 📝 I regularly write articles on [mussacharles60.blogspot.com](mussacharles60.blogspot.com)
 
 - 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, HTML, CSS, C#, C++**
 
