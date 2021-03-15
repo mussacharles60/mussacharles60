@@ -7,17 +7,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="mussacharles60" /> </a> </p> --!>
 
-<p align="left"> 
-  <a href="https://twitter.com/mussacharles60" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mussacharles60?logo=twitter&style=for-the-badge" alt="mussacharles60" />
-  </a> 
-</p>
+- 🔭 I’m currently working on [Myssa App](www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Python ...** for the next big thing
 
-- 🔭 I’m currently working on [myssa app](www.myssa.io)
-
-- 🌱 I’m currently learning **Electron, Python ...**
-
-- 👨‍💻 All of my projects are available at [www.instagram.com/mussacharles60](www.instagram.com/mussacharles60)
+- 👨‍💻 You can view my projects through [this link](www.instagram.com/mussacharles60)
 
 - 📝 I regularly write articles on [mussacharles60.blogspot.com](mussacharles60.blogspot.com)
 
@@ -27,7 +19,13 @@
 
 - ⚡ Fun fact **I learn New Things Every minute**
 
-### Blogs posts
+<p align="left"> 
+  <a href="https://twitter.com/mussacharles60" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mussacharles60?logo=twitter&style=for-the-badge" alt="mussacharles60" />
+  </a> 
+</p>
+
+### Links
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
