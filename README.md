@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mussa Charles (Myssa)</h1>
-<h3 align="center">A Full Stack Developer &#127481;&#127487;</h3>
+<h3 align="center">A Full Stack Developer &#127481;&#127487; </h3>
 <img align="left" src="https://user-images.githubusercontent.com/35903944/111223103-c2fc7380-85ed-11eb-8b41-8f02cfd48b5b.png" alt="mussacharles60" />
 <p> 
 <h3 align="center">I'm Electronics designer, Hardware & Software Developer</h3>
@@ -19,6 +19,8 @@
 - 📫 How to reach me **mussacharles60@gmail.com**
 
 - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:***
+
+:tanzania:
 
 <p align="center"> 
   <a href="https://twitter.com/mussacharles60" target="blank">
