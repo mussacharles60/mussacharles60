@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Myssa App](https://www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Angular & Python ...** for the next big thing
 
-- 👨‍💻 You can view my projects through [this link](www.instagram.com/mussacharles60)
+- 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
 - 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, Python, Angular, React, HTML, CSS, C#, C++**
 
