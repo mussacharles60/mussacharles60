@@ -44,8 +44,8 @@
 
 <p align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mussacharles60&show_icons=true&locale=en&layout=compact" alt="mussacharles60" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&locale=en" alt="mussacharles60" /></p>
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mussacharles60&show_icons=true&locale=en&layout=compact" alt="mussacharles60" /></p> -->
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&locale=en" alt="mussacharles60" /></p> -->
 </p>
 
 **Let It Happen...**
