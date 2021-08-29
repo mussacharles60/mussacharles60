@@ -1,4 +1,4 @@
-<img align="right" width='250px' height='250px' src="https://user-images.githubusercontent.com/35903944/111223103-c2fc7380-85ed-11eb-8b41-8f02cfd48b5b.png" alt="mussacharles60" />
+<!-- <img align="right" width='250px' height='250px' src="https://user-images.githubusercontent.com/35903944/111223103-c2fc7380-85ed-11eb-8b41-8f02cfd48b5b.png" alt="mussacharles60" /> -->
 <h1 align="center">Hi 👋, I'm Mussa Charles (Myssa)</h1>
 <h3 align="center">A Full Stack Developer&nbsp; &#127481;&#127487; </h3>
 
@@ -11,7 +11,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="mussacharles60" /> </a> </p> 
 - 📝 I regularly write articles on [mussacharles60.blogspot.com](mussacharles60.blogspot.com) -->
 
-- 🔭 I’m currently working on [Myssa App](https://www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Angular & Python ...** for the next big thing
+<!-- - 🔭 I’m currently working on [Myssa App](https://www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Angular & Python ...** for the next big thing -->
+- 🔭 I’m currently learning **Electron, Angular & Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
