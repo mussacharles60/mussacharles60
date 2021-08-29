@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [mussacharles60.blogspot.com](mussacharles60.blogspot.com) -->
 
 <!-- - 🔭 I’m currently working on [Myssa App](https://www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Angular & Python ...** for the next big thing -->
-- 🔭 I’m currently learning **Electron, Angular & Python ...** for the next big things
+- 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
