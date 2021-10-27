@@ -46,15 +46,10 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" />
-<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mussacharles60&show_icons=true&locale=en&layout=compact" alt="mussacharles60" /></p> -->
-<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&locale=en" alt="mussacharles60" /></p> -->
 </p>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" />
-</a>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mussacharles60&langs_count=15" />
-</a> -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" />
+</p>
 
 <p align="center">**Let It Happen...**</p>
