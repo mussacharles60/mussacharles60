@@ -52,5 +52,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=8" />
 </a>
+[![mussacharles60's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mussacharles60)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">**Let It Happen...**</p>
 
