@@ -49,5 +49,8 @@
 <!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mussacharles60&show_icons=true&locale=en&layout=compact" alt="mussacharles60" /></p> -->
 <!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&locale=en" alt="mussacharles60" /></p> -->
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=8" />
+</a>
 <p align="center">**Let It Happen...**</p>
 
