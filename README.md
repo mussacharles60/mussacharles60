@@ -51,7 +51,7 @@
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=8" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mussacharles60" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mussacharles60" />
 </a>
 
 <p align="center">**Let It Happen...**</p>
