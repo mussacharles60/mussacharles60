@@ -52,8 +52,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=8" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&langs_count=8" />
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  
 </a>
 
 <p align="center">**Let It Happen...**</p>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
