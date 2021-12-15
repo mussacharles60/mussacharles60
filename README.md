@@ -29,6 +29,12 @@
   </a> 
 </p>
 
+<p align="center"> 
+  <a href="https://instagram.com/mussacharles60" target="blank">
+    <img src="https://img.shields.io/instagram/follow/mussacharles60?logo=instagram&style=for-the-badge" alt="mussacharles60" />
+  </a> 
+</p>
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
