@@ -30,8 +30,8 @@
 </p>
 
 <p align="center"> 
-  <a href="https://instagram.com/mussacharles60" target="blank">
-    <img src="https://img.shields.io/instagram/follow/mussacharles60?logo=instagram&style=for-the-badge" alt="mussacharles60" />
+  <a href="https://youtube.com/mussacharles60" target="blank">
+    <img src="https://img.shields.io/youtube/follow/mussacharles60?logo=youtube&style=for-the-badge" alt="mussacharles60" />
   </a> 
 </p>
 
