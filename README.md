@@ -16,15 +16,11 @@
 
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
-
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
-
 
 - 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, Python, Angular, React, HTML, CSS, C#, C++**
 
-
 - 📫 How to reach me **mussacharles60@gmail.com**
-
 
 - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:***
 
