@@ -8,13 +8,6 @@
 <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussacharles60&label=Profile%20views&color=0e75b6&style=flat" alt="mussacharles60" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="mussacharles60" /> </a> </p> 
-- 📝 I regularly write articles on [mussacharles60.blogspot.com](mussacharles60.blogspot.com) -->
-
-<!-- - 🔭 I’m currently working on [Myssa App](https://www.myssa.io) As my future platform, Meanwhile 🌱 I’m currently learning **Electron, Angular & Python ...** for the next big thing -->
-
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
