@@ -8,7 +8,6 @@
 <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
 
-
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
@@ -44,7 +43,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" />
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" />
 </p>
