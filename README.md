@@ -8,6 +8,8 @@
 <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
 
+
+
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
@@ -17,6 +19,8 @@
 - 📫 How to reach me **mussacharles60@gmail.com**
 
 - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:***
+
+
 
 <p align="center"> 
   <a href="https://twitter.com/mussacharles60" target="_blank">
