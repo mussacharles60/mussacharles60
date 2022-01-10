@@ -33,7 +33,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
+<!-- <p align="center"> -->
   <table>
     <tr>
       <a href="https://dev.to/mussacharles60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mussacharles60" height="30" width="40" /></a>
@@ -54,7 +54,7 @@
       <a href="https://www.youtube.com/c/mussacharles60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mussacharles60" height="30" width="40" crossorigin="anonymous" /></a>
     </tr>
   </table>
-</p>
+<!-- </p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 
