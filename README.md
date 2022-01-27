@@ -6,11 +6,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
 
 <p align="left"> 
-  
   <h3>I'm Electronics designer, Hardware & Software Developer</h3>
-
   <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
-
 </p>
 
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
@@ -24,12 +21,9 @@
 - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:***
 
 <p align="center"> 
-  
   <a href="https://twitter.com/mussacharles60" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mussacharles60?logo=twitter&style=for-the-badge" alt="mussacharles60" />
- 
   </a> 
-  
 </p>
 
 <h3 align="center">Connect with me:</h3>
