@@ -7,6 +7,8 @@
   <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMLjMSWofuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
