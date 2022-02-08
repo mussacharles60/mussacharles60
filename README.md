@@ -6,8 +6,13 @@
   <h3>I'm Electronics designer, Hardware & Software Developer</h3>
   <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
+<!-- blank line -->
+<figure class="video_container">
+<!--   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe> -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SMLjMSWofuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+</figure>
+<!-- blank line -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMLjMSWofuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
