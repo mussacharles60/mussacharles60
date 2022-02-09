@@ -176,6 +176,8 @@
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?mussacharles60=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" />
 </p>
