@@ -6,7 +6,6 @@
   <h3>I'm Electronics designer, Hardware & Software Developer</h3>
   <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
-
 - 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
