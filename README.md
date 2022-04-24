@@ -109,9 +109,9 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a> 
 
-  <a href="https://www.w3.org/html/" target="_blank">
+<!--   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
+  </a>  -->
 
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -121,9 +121,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
-  <a href="https://kotlinlang.org" target="_blank"> 
+<!--   <a href="https://kotlinlang.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -157,13 +157,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
 
-  <a href="https://reactnative.dev/" target="_blank">
+<!--   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a> 
+  </a>  -->
 
-  <a href="https://www.sqlite.org/" target="_blank">
+<!--   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
