@@ -6,7 +6,7 @@
   <h3>I'm Electronics designer, Hardware & Software Developer</h3>
   <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
-- 🔭 I’m currently learning **Electron, React, Angular & Python ...** for the next big things
+- 🔭 I’m currently learning **Electron, React, Python ...** for the next big things
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
@@ -69,25 +69,25 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
 
-  <a href="https://getbootstrap.com" target="_blank"> 
+<!--   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
+  </a>  -->
 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+<!--   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
+  </a>  -->
 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+<!--   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
+  </a>  -->
   
-  <a href="https://www.w3schools.com/css/" target="_blank">
+<!--   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <a href="https://www.electronjs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
