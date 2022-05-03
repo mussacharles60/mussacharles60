@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning **Electron, React, Python ...** for the next big things
 
 - 👨‍💻 Major working on [Myssa Project](https://myssa.io)
-- 
+
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
 - 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, Python, Angular, React, HTML, CSS, C#, C++**
