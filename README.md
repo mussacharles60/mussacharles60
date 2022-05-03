@@ -170,9 +170,9 @@
   </a>
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="lugodev" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" />
