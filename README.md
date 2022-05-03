@@ -1,5 +1,5 @@
 <!-- <img align="right" width='250px' height='250px' src="https://user-images.githubusercontent.com/35903944/111223103-c2fc7380-85ed-11eb-8b41-8f02cfd48b5b.png" alt="mussacharles60" /> -->
-<h1 align="center">Hi 👋, I'm Mussa Charles (Myssa)</h1>
+<h1 align="center">Hi 👋, I'm Mussa Charles</h1>
 <h3 align="center">A Full Stack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
 <p align="left"> 
@@ -8,6 +8,8 @@
 </p>
 - 🔭 I’m currently learning **Electron, React, Python ...** for the next big things
 
+- 👨‍💻 Major working on [Myssa Project](https://myssa.io)
+- 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
 - 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, Python, Angular, React, HTML, CSS, C#, C++**
