@@ -13,7 +13,7 @@
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
-- 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, Python, Angular, React, HTML, CSS, C#, C++**
+- 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, Python, React, C#**
 
 - 📫 How to reach me **mussacharles60@gmail.com**
 
