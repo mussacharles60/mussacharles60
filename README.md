@@ -6,7 +6,6 @@
   <h3>I'm Electronics designer, Hardware & Software Developer</h3>
   <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes</h3>
 </p>
-
 - 🔭 I’m currently learning **Electron, React, Python ...** for the next big things
 
 - 👨‍💻 Major working on [Myssa Project](https://myssa.io)
@@ -182,7 +181,6 @@
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" />
 </p> -->
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&count_private=true&show_icons=true" alt="Mussa's github stats" />
 </p>
