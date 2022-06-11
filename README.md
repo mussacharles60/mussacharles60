@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mussa Charles</h1>
 <h3 align="center">A Full Stack Developer</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
 
 <p align="center"> 
