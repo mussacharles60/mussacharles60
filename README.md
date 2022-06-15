@@ -39,6 +39,7 @@
 <h3 align="center">
 
   Connect with me:
+
 </h3>
 
 <p align="center" style="background: #fff;">
