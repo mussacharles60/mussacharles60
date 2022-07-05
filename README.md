@@ -28,9 +28,7 @@
 
 </p>
 
-<h3 align="center">
-  Connect with me:
-</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center" style="background: #fff;">
   <a href="https://dev.to/mussacharles60" target="blank">
