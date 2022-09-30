@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <h3>I'm Electronics designer, Hardware & Software Developer</h3>
- <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing bugs)</h3>
+ <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)</h3>
 </p>
 
 - 🔭 I’m currently learning **Electron, React, Python ...** for the next big things
@@ -47,7 +47,7 @@
   <a href="https://medium.com/@mussacharles60" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mussacharles60" height="30" width="40" />
   </a>
-<!--   <a href="https://www.mussacharles60.blagspot.com" target="blank">
+<!--   <a href="https://www.mussacharles60.blogspot.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="mussacharles60's blog" height="30" width="40" crossorigin="anonymously" /> -->
   </a>
   <a href="https://www.youtube.com/c/mussacharles60" target="blank">
