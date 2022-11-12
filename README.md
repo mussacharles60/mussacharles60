@@ -107,10 +107,10 @@
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p> -->
 
-<!--<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="lugodev" /></a></p> -->
+<!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="lugodev" /></a></p> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&count_private=true&show_icons=true" alt="Mussa's github stats" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" /></p> -->
 
 <p align="center"> *-*-*-******** Let It Happen...🙏 ********-*-*-* </p>
 
