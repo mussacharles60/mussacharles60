@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center" style="background: #fff;">
+<p align="center" style="background: #fff !important;">
   <a href="https://dev.to/mussacharles60" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mussacharles60" height="30" width="40" />
   </a>
@@ -106,12 +106,20 @@
   
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p> -->
-
+#### Stats
 <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="lugodev" /></a></p> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&count_private=true&show_icons=true" alt="Mussa's github stats" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" /></p> -->
 
+<!-- ![Metrics](https://raw.githubusercontent.com/LunarWatcher/LunarWatcher/master/github-metrics.svg) -->
+<!-- ![Visit counter](https://count.getloli.com/get/@:OliviaLunarWatcherGitHub?theme=rule34) -->
+
+#### Holopin badges
+
+[![@mussacharles60's Holopin board](https://holopin.me/mussacharles60)](https://holopin.io/@mussacharles60)
+
+---
 <p align="center"> *-*-*-******** Let It Happen...🙏 ********-*-*-* </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussacharles60&label=Profile%20views&color=0e75b6&style=flat" alt="mussacharles60" /> </p> -->
