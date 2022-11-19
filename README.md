@@ -1,11 +1,11 @@
 <!-- <img align="right" width='250px' height='250px' src="https://user-images.githubusercontent.com/35903944/111223103-c2fc7380-85ed-11eb-8b41-8f02cfd48b5b.png" alt="mussacharles60" /> -->
 
-<h1 align="center">Hi 👋, I'm Mussa Charles</h1>
-<h3 align="center">A Full Stack Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
+<h1>Hi 👋, I'm Mussa Charles</h1>
+<h3>A Full Stack Developer</h3>
+<p> <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
 
-<p align="center"> 
-  <h3>I'm Electronics designer, Hardware & Software Developer</h3>
+<p> 
+ <h3>I'm Electronics designer, Hardware & Software Developer</h3>
  <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)</h3>
 </p>
 
@@ -21,13 +21,14 @@
 
 - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:***
 
-<p align="center"> 
+<p> 
   <a href="https://twitter.com/mussacharles60" target="_blank">
   <img src="https://img.shields.io/twitter/follow/mussacharles60?logo=twitter&style=for-the-badge" alt="mussacharles60" />
  </a> 
 </p>
 
-<p align="center">Platform & Tools</p>
+<!-- <p align="center">Platform & Tools</p> -->
+<p>Platform & Tools</p>
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
@@ -48,8 +49,8 @@
 <!-- [![](https://img.shields.io/badge/-Yarn-2c8ebb?style=flat-square&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/) -->
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center" style="background: #fff !important;">
+<h3>Connect with me:</h3>
+<p style="background: #fff !important;">
   <a href="https://dev.to/mussacharles60" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mussacharles60" height="30" width="40" />
   </a>
@@ -129,8 +130,8 @@
 </p> -->
 #### Stats
 <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="lugodev" /></a></p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&count_private=true&show_icons=true" alt="Mussa's github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&count_private=true&show_icons=true" alt="Mussa's github stats" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" /></p> -->
 
 <!-- ![Metrics](https://raw.githubusercontent.com/LunarWatcher/LunarWatcher/master/github-metrics.svg) -->
