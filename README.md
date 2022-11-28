@@ -2,10 +2,9 @@
 
 <h1>Hi 👋, I'm Mussa Charles</h1>
 <h3>A Full Stack Developer</h3>
-<p> <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
-
- <h3>I'm Electronics designer, Hardware & Software Developer</h3>
- <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)</h3>
+<p><img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
+<h3>I'm Electronics designer, Hardware & Software Developer</h3>
+<h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)</h3>
 
 - 🔭 I’m currently learning **Electron, React, Python ...** for the next big things
 
