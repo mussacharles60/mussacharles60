@@ -1,13 +1,13 @@
 <!-- <img align="right" width='250px' height='250px' src="https://user-images.githubusercontent.com/35903944/111223103-c2fc7380-85ed-11eb-8b41-8f02cfd48b5b.png" alt="mussacharles60" /> -->
 
-<!-- <h1>Hi 👋, I'm Mussa Charles</h1> -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mussa Charles
+<h1>Hi 👋, I'm Mussa Charles</h1>
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mussa Charles -->
 <h3>A Full Stack Developer</h3>
 <p><img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
 <h3>I'm Electronics designer, Hardware & Software Developer</h3>
 <h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)</h3>
 
-- 🔭 I’m currently learning **Electron, React, Python ...** for the next big things
+- 🔭 I’m currently learning **Python & Rust** for the next big things
 
 - 👨‍💻 Major working on [Myssa Project](https://myssa.io)
 
