@@ -10,6 +10,13 @@ Electronics Designer | IoT | AI | Web | Desktop & Android Developer | Java | Typ
 
 Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)
 
+<!-- *Electronics designer, Software developer
+*Inspiring Young Engineers Around The Global
+*Maker
+*DIY projects
+*Lifestyle
+*Travel -->
+
 - 🔭 I’m currently learning **Python & Rust** for the next big things
 
 - 👨‍💻 Major working on [Project Myssa](https://myssa.io)
