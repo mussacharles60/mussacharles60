@@ -41,7 +41,7 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 
-<!-- [![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/) -->
+[![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/-Yarn-2c8ebb?style=flat-square&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/)
 <!-- [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/) -->
 
