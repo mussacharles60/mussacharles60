@@ -4,15 +4,15 @@
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mussa Charles -->
 <h3>A Full Stack Developer</h3>
 <p><img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
-<h3>I'm Electronics designer, Hardware & Software Developer</h3>
+<!-- <h3>I'm Electronics designer, Hardware & Software Developer</h3> -->
 
 Electronics Designer | IoT | AI | Web | Desktop & Android Developer | Java | TypeScript | C# | C++ | Python & Rust User | [Myssa Tech](https://myssa.io) Founder
 
-<h3>Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)</h3>
+Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)
 
 - 🔭 I’m currently learning **Python & Rust** for the next big things
 
-- 👨‍💻 Major working on [Myssa Project](https://myssa.io)
+- 👨‍💻 Major working on [Project Myssa](https://myssa.io)
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
