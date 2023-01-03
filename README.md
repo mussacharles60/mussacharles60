@@ -17,6 +17,8 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 *Lifestyle
 *Travel -->
 
+<!-- Software & Hardware Developer, CreatorOf Myssa App, Inspiring Young Engineers Around The Globe. -->
+
 - 🔭 I’m currently learning **Python & Rust** for the next big things
 
 - 👨‍💻 Major working on [Project Myssa](https://myssa.io)
