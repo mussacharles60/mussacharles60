@@ -8,11 +8,11 @@
 
 Electronics Designer,
 
-| IoT, AI, Web, Desktop & Android Developer,
+IoT, AI, Web, Desktop & Android Developer,
 
-| GCP, Java, TypeScript, PHP, C#, C++, Python & Rust User,
+GCP, Java, TypeScript, PHP, C#, C++, Python & Rust User,
 
-| [Myssa Tech](https://myssa.io) Founder.
+[Myssa Tech](https://myssa.io) Founder.
 
 Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)
 
