@@ -7,7 +7,6 @@
 <!-- <h3>I'm Electronics designer, Hardware & Software Developer</h3> -->
 
 Electronics Designer,
-
 IoT, AI, Web, Desktop & Android Developer,
 GCP, Java, TypeScript, PHP, C#, C++, Python & Rust User,
 [Myssa Tech](https://myssa.io) Founder.
