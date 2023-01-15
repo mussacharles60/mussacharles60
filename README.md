@@ -6,9 +6,9 @@
 <p><img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
 <!-- <h3>I'm Electronics designer, Hardware & Software Developer</h3> -->
 
-Electronics Designer,
-IoT, AI, Web, Desktop & Android Developer,
-GCP, Java, TypeScript, PHP, C#, C++, Python & Rust User,
+Electronics Designer | 
+IoT, AI, Web, Desktop & Android Developer | 
+GCP, Java, TypeScript, PHP, C#, C++, Python & Rust User | 
 [Myssa Tech](https://myssa.io) Founder.
 
 Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)
