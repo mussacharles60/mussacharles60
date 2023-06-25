@@ -41,6 +41,8 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
  </a> 
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/tanzania_public/mussacharles60.svg)](https://user-badge.committers.top/tanzania_public/mussacharles60)
+
 <!-- <p align="center">Platform & Tools</p> -->
 <p>Platform & Tools</p>
 
@@ -155,8 +157,6 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 [![@mussacharles60's Holopin board](https://holopin.me/mussacharles60)](https://holopin.io/@mussacharles60)
 --- -->
-
-[![committers.top badge](https://user-badge.committers.top/tanzania_public/mussacharles60.svg)](https://user-badge.committers.top/tanzania_public/mussacharles60)
 <p> *-*-*-******** Let It Happen...🙏 ********-*-*-* </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussacharles60&label=Profile%20views&color=0e75b6&style=flat" alt="mussacharles60" /> </p> -->
