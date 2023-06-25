@@ -41,7 +41,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
  </a> 
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/tanzania_public/mussacharles60.svg)](https://user-badge.committers.top/tanzania_public/mussacharles60)
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/mussacharles60.svg)](https://user-badge.committers.top/tanzania_private/mussacharles60)
 
 <!-- <p align="center">Platform & Tools</p> -->
 <p>Platform & Tools</p>
