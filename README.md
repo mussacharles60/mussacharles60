@@ -28,7 +28,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
-- 💬 Ask me about **android, electron, Arduino, RaspberryPi, java, javascript, typescript, Python, React, C#, c++ & Rust**
+- 💬 Ask me about **Android, Electronics, Arduino, RaspberryPi, Java, TypeScript, PHP, Python, C#, C++, Go & Rust**
 
 - 📫 How to reach me **mussacharles60@gmail.com**
 
