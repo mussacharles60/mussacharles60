@@ -25,7 +25,8 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 - 🔭 I’m currently learning **Python & Rust** for the next big things
 
-- 👨‍💻 Major working on [Project Myssa](https://myssa.io)
+<!--- 👨‍💻 Major working on [Project Myssa](https://myssa.io)-->
+- 👨‍💻 Major working on [BusinessOS Project](https://business.myssa.io)
 
 - 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
