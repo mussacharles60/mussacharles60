@@ -34,7 +34,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 - 📫 How to reach me **mussacharles60@gmail.com**
 
 <!-- - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:*** -->
-- ⚡ Fun fact ***I learn New Things Every minute :wink:***
+- ⚡ Fun fact ***I learn New Things Every minute :wink: ***
 
 <p> 
   <a href="https://twitter.com/mussacharles60" target="_blank">
