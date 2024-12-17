@@ -69,6 +69,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 
 <h3>Connect with me:</h3>
+
 <p style="background: #fff !important;">
   <a href="https://dev.to/mussacharles60" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mussacharles60" height="30" width="40" />
