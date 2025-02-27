@@ -7,7 +7,7 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
 
-<!-- <h3>I'm Electronics designer, Hardware & Software Developer</h3> -->
+<!-- <h3>I'm Electronics designer, Hardware & Software Developer </h3> -->
 
 Electronics Designer 
 | IoT, AI, ML, Web, Desktop & Android Developer 
