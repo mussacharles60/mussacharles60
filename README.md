@@ -5,7 +5,9 @@
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mussa Charles -->
 <!-- <h3>A Full Stack Developer</h3> -->
 
-<p><img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" /> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" />
+</p>
 
 <!-- <h3>I'm Electronics designer, Hardware & Software Developer </h3> -->
 
