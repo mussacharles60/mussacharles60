@@ -98,6 +98,18 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mussacharles60" height="30" width="40" crossorigin="anonymous" />
   </a>
 </p>
+
+![https://facebook.com/mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/facebook.svg)
+![https://github.com/mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg)
+![https://instagram.com/mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg)
+![https://linkedin.com/in/mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg)
+![https://medium.com/@mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/medium.svg)
+<!-- ![large-filled-spotify](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/spotify.svg) -->
+![https://t.me/255716581823](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/telegram.svg)
+![https://tiktok.com/@mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/tiktok.svg)
+![https://twitch.com/mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitch.svg)
+![https://x.com/mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg)
+![https://youtube.com/@mussacharles60](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/youtube.svg)
  
 <!-- <h3 align="center">Languages and Tools:</h3>
 
