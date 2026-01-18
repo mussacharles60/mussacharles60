@@ -163,20 +163,32 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p> -->
 #### Stats
-<!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="lugodev" /></a></p> -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="trophy" />
+  </a>
+</p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussacharles60&" alt="mussacharles60" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&count_private=true&show_icons=true" alt="Mussa's github stats" />
 </p>
-<!-- <p><img align="center" src="https://streak-stats.demolab.com?user=mussacharles60&theme=shadow-blue&hide_border=true&border_radius=0&card_width=1000" alt="Mussa's github streak stats" /></p> -->
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=mussacharles60&theme=shadow-blue&hide_border=true&border_radius=0&card_width=1000" alt="Mussa's github streak stats" />
+</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" />
 </p>
 
+## New Stats
+
 <!-- ![Metrics](https://raw.githubusercontent.com/LunarWatcher/LunarWatcher/master/github-metrics.svg) -->
 <!-- ![Visit counter](https://count.getloli.com/get/@:OliviaLunarWatcherGitHub?theme=rule34) -->
+[![Mussa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mussacharles60)](https://github.com/anuraghazra/github-readme-stats)
+[![Mussa's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mussacharles60&theme=dark)](https://git.io/streak-stats)
+[![Mussa's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mussacharles60&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- #### Holopin badges
 
