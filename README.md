@@ -189,7 +189,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 </br>
 [![Mussa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Mussa's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=20&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mussa's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=20&show_icons=true&theme=dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mussacharles60&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- #### Holopin badges
