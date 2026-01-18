@@ -185,9 +185,9 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 <!-- ![Metrics](https://raw.githubusercontent.com/LunarWatcher/LunarWatcher/master/github-metrics.svg) -->
 <!-- ![Visit counter](https://count.getloli.com/get/@:OliviaLunarWatcherGitHub?theme=rule34) -->
-[![Mussa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 [![Mussa's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mussacharles60&theme=dark)](https://git.io/streak-stats)
+</br>
+[![Mussa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Mussa's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=20&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mussacharles60&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
