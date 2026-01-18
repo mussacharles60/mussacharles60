@@ -17,7 +17,7 @@ Electronics Designer
 | GCP, Node, React, PlatformIO, Robotics & Automations 
 | [Myssa Tech](https://myssatech.com) | [Myssa IO](https://myssa.io) Founder.
 
-Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs)
+Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs) 😂
 
 <!-- *Electronics designer, Software developer
 *Inspiring Young Engineers Around The Global
@@ -163,7 +163,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p> -->
 #### Stats
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="trophy" />
   </a>
@@ -181,14 +181,14 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=15" />
 </p>
 
-## New Stats
+## New Stats -->
 
 <!-- ![Metrics](https://raw.githubusercontent.com/LunarWatcher/LunarWatcher/master/github-metrics.svg) -->
 <!-- ![Visit counter](https://count.getloli.com/get/@:OliviaLunarWatcherGitHub?theme=rule34) -->
-[![Mussa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mussacharles60)](https://github.com/anuraghazra/github-readme-stats)
+[![Mussa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mussacharles60&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Mussa's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mussacharles60&theme=dark)](https://git.io/streak-stats)
-[![Mussa's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mussacharles60&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Mussa's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussacharles60&langs_count=20&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mussacharles60&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- #### Holopin badges
 
