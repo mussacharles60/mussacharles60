@@ -193,7 +193,6 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mussacharles60&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- #### Holopin badges
-
 [![@mussacharles60's Holopin board](https://holopin.me/mussacharles60)](https://holopin.io/@mussacharles60)
 --- -->
 <!-- <p> *-*-*-******** Let It Happen... 🙏 ********-*-*-* </p> -->
