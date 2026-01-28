@@ -69,7 +69,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 #### Connect with me
 
-<p style="background: #fff !important;">
+<p style="background: #fff;">
   <a href="https://dev.to/mussacharles60" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mussacharles60" height="30" width="40" />
   </a>
