@@ -15,9 +15,9 @@ Electronics Designer
 | IoT, AI, ML, Web, Desktop & Android Developer 
 | Java, TypeScript, Python, C#, C++, & Rust User 
 | GCP, Node, React, PlatformIO, Robotics, & Automations 
-| [Myssa Tech](https://myssatech.com) | [Myssa IO](https://myssa.io) Founder.
+| [Myssa Tech](https://myssatech.com) | [Myssa IO](https://myssa.io) Founder
 
-Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs) 😂.
+Mostly spend on time in designing, solving circuits, learning new things and debugging codes (fixing major bugs) 😂
 
 <!-- *Electronics designer, Software developer
 *Inspiring Young Engineers Around The Global
@@ -31,14 +31,14 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 - 👨‍💻 Major working on [BusinessOS Project](https://business.myssa.io).
 
-- 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60).
+- 👨‍💻 You can view my projects through [this link](https://www.instagram.com/mussacharles60)
 
-- 💬 Ask me about **Android, Electronics, Arduino, PlatformIO, AI, RaspberryPi, Java, TypeScript, Python, C#, & C++**.
+- 💬 Ask me about **Android, Electronics, Arduino, PlatformIO, AI, RaspberryPi, Java, TypeScript, Python, C#, & C++**
 
-- 📫 How to reach me **mussa@myssatech.com**.
+- 📫 How to reach me **mussa@myssatech.com**
 
 <!-- - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:*** -->
-- ⚡ Fun fact - **I learn New Things Every Moment :wink:**.
+- ⚡ Fun fact - **I learn New Things Every Moment :wink:**
 
 <!-- <p> 
   <a href="https://twitter.com/mussacharles60" target="_blank">
