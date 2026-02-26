@@ -43,7 +43,6 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
   <img src="https://img.shields.io/twitter/follow/mussacharles60?logo=twitter&style=for-the-badge" alt="mussacharles60" />
  </a> 
 </p> -->
-
 <!-- [![committers.top badge](https://user-badge.committers.top/tanzania_private/mussacharles60.svg)](https://user-badge.committers.top/tanzania_private/mussacharles60) -->
 
 <!-- <p align="center">Platform & Tools</p> -->
