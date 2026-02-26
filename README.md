@@ -45,7 +45,6 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 </p> -->
 <!-- [![committers.top badge](https://user-badge.committers.top/tanzania_private/mussacharles60.svg)](https://user-badge.committers.top/tanzania_private/mussacharles60) -->
 
-<!-- <p align="center">Platform & Tools</p> -->
 #### Platform & Tools
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
