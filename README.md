@@ -31,7 +31,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 - 💬 Ask me about **Android, Electronics, Arduino, PlatformIO, AI, RaspberryPi, Java, TypeScript, Python, C#, & C++**
 
-- 📫 How to reach me -> **mussa@myssatech.com** or **mussacharles60@gmail.com**
+- 📫 How to reach me -> **mussa@myssatech.com** or **mussacharles60@gmail.com** or **contact@myssatech.com**
 
 <!-- - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:*** -->
 - ⚡ Fun fact --- **I'm Learning New Things Every Moment :wink:**
