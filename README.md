@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=mussacharles60" alt="mussacharles60" />
 </p>
 <!-- <h3>I'm Electronics designer, Hardware & Software Developer </h3> -->
+
 Electronics Designer 
 | IoT, AI, ML, Web, Desktop & Android Developer 
 | Java, TypeScript, Python, C#, C++, & Rust User 
@@ -26,7 +27,7 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 - 👨‍💻 Major working on [BusinessOS Project](https://business.myssa.io)
 
-- 👨‍💻 You can view my projects through [this link](https://instagram.com/mussacharles60) or  [this link](https://facebook.com/mussacharles60) 
+- 👨‍💻 You can view my projects through [this link](https://instagram.com/mussacharles60) or [this link](https://facebook.com/mussacharles60) 
 
 - 💬 Ask me about **Android, Electronics, Arduino, PlatformIO, AI, RaspberryPi, Java, TypeScript, Python, C#, & C++**
 
