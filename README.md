@@ -186,7 +186,8 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 </br>
 ![Mussa's GitHub Top Languages](./profile/top-langs.svg)
 </br>
-<!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
+![Pinned Repo](./profile/pinned-repo.svg)
+</br>
 
 <!-- #### Holopin badges
 [![@mussacharles60's Holopin board](https://holopin.me/mussacharles60)](https://holopin.io/@mussacharles60)
