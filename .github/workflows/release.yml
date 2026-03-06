@@ -49,7 +49,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=StepperShiftRegister74HC595
+          options: username=${{ github.repository_owner }}&repo=StepperShiftRegister74HC595&theme=dark
           path: profile/pinned-repo.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
