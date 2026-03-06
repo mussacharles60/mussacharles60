@@ -184,9 +184,11 @@ Mostly spend on time in designing, solving circuits, learning new things and deb
 
 ![Mussa's GitHub Stats](./profile/stats.svg)
 </br>
+
 ![Mussa's GitHub Top Languages](./profile/top-langs.svg)
 </br>
-![Pinned Repo](./profile/pinned-repo.svg)
+
+[![Pinned Repo](./profile/pinned-repo.svg)](https://github.com/mussacharles60/StepperShiftRegister74HC595)
 </br>
 
 <!-- #### Holopin badges
