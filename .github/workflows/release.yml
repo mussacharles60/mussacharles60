@@ -15,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      
         # - name: GitHub Readme Stats Action
         # # You may pin to the exact commit or the version.
         # # uses: stats-organization/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2
@@ -29,7 +28,6 @@ jobs:
         #   path: # optional, default is 
         #   # GitHub token (PAT or GITHUB_TOKEN).
         #   token: # optional, default is
-        
         
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v1.1.0
