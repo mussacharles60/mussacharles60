@@ -27,7 +27,8 @@ jobs:
         #   # Output path for SVG file (relative path; include filename with .svg).
         #   path: # optional, default is 
         #   # GitHub token (PAT or GITHUB_TOKEN).
-        #   token: # optional, default is 
+        #   token: # optional, default is
+        
         
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v1.1.0
