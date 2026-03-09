@@ -29,7 +29,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
 
 - 👨‍💻 You can view my projects through [this link](https://instagram.com/mussacharles60) or [this link](https://facebook.com/mussacharles60) 
 
-- 💬 Ask me about **Android, Electronics, Arduino, PlatformIO, AI, RaspberryPi, Java, TypeScript, Python, C#, & C++**
+- 💬 Ask me about **Android, Electronics, Arduino, PlatformIO, AI, RaspberryPi, Electron, Java, TypeScript, Python, C#, & C++**
 
 - 📫 How to reach me -> **mussa@myssatech.com** or **mussacharles60@gmail.com** or **contact@myssatech.com**
 
