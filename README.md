@@ -81,6 +81,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
   <a href="https://medium.com/@mussacharles60" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mussacharles60" height="30" width="40" />
   </a>
+  
 <!--   <a href="https://www.mussacharles60.blogspot.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="mussacharles60's blog" height="30" width="40" crossorigin="anonymously" /> -->
   </a>
