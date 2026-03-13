@@ -30,7 +30,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
 
 - 👨‍💻 Major working on [BusinessOS Project](https://business.myssa.io)
 
-- 👨‍💻 You can view my projects through [linktree link](https://git [this link](https://instagram.com/mussacharles60) or [this link](https://facebook.com/mussacharles60) 
+- 👨‍💻 You can view my projects through [linktree link](https://linktr.ee/mussacharles60) or [this link](https://instagram.com/mussacharles60) or [this link](https://facebook.com/mussacharles60) 
 
 - 💬 Ask me about **Android, Electronics, Arduino, PlatformIO, AI, RaspberryPi, Electron, Java, TypeScript, Python, C# & C++**
 
