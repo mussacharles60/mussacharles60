@@ -11,7 +11,7 @@ Electronics Designer
 | IoT, AI, ML, Web, Desktop & Android Developer 
 | Java, TypeScript, Python, C#, C++ & Rust User 
 | GCP, Node, React, PlatformIO, Robotics & Automations 
-| [Myssa Tech](https://myssatech.com) | [Myssa IO](https://myssa.io) Founder
+| [Myssa Tech](https://myssatech.com) / [Myssa.IO](https://myssa.io) Founder
 
 Mostly spend on time in designing, solving circuits, fixing bugs, learning new things and debugging codes (fixing major bugs) 😂
 
