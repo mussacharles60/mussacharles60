@@ -8,10 +8,15 @@
 <!-- <h3>I'm Electronics designer, Hardware & Software Developer</h3> -->
 
 Electronics Designer 
+</br>
 | IoT, AI, ML, Web, Desktop & Android Developer 
+</br>
 | Java, TypeScript, Python, C#, C++ & Rust User 
+</br>
 | GCP, Node, React, PlatformIO, Robotics & Automations 
+</br>
 | [Myssa Tech](https://myssatech.com) / [Myssa.IO](https://myssa.io) Founder
+</br>
 
 Mostly spend on time in designing, solving circuits, fixing bugs, learning new things and debugging codes (fixing major bugs) 😂
 
