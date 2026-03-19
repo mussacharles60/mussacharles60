@@ -42,7 +42,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
 - 📫 you can reach me through **mussa@myssatech.com**, **mussacharles60@gmail.com** or **contact@myssatech.com**
 
 <!-- - ⚡ Fun fact ***I learn New Things Every minute :wink:, & Why On Earth I'm Still Single? :scream:*** -->
-- ⚡ Fun fact -- **I'm Learning New Things Every Moment :wink:**
+- ⚡ Fun fact "**I'm Learning New Things Every Moment :wink:**"
 
 <!-- <p> 
   <a href="https://twitter.com/mussacharles60" target="_blank">
