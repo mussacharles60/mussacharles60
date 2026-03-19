@@ -18,7 +18,7 @@ Electronics Designer
 | [Myssa Tech](https://myssatech.com) Founder & CEO
 </br>
 
-Mostly spend on time in designing, solving circuits, fixing bugs, learning new things and debugging codes (fixing major bugs) 😂
+Mostly spend on time in designing, solving circuits, fixing bugs, learning new things and debugging codes 😂
 
 <!-- *Electronics designer, Software developer
 *Inspiring Young Engineers Around The Global
