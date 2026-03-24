@@ -7,7 +7,7 @@
 </p>
 <!-- <h3>I'm Electronics designer, Hardware & Software Developer</h3> -->
 
-Electronics Designer 
+Electronics Designer!
 </br>
 | IoT, AI, ML, Web, Desktop & Android Developer 
 </br>
