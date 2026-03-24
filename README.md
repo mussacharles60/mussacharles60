@@ -69,7 +69,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 
 
-#### Connect with me
+#### Connect with me!
 
 <p style="background: #fff;">
   <a href="https://dev.to/mussacharles60" target="blank">
