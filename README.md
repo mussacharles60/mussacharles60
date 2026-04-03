@@ -9,13 +9,13 @@
 
 Electronics Designer!
 </br>
-| IoT, AI, ML, Web, Desktop & Android Developer 
+📌 IoT, AI, ML, Web, Desktop & Android Developer 
 </br>
-| Java, TypeScript, Python, C#, C++ & Rust User 
+📌 Java, TypeScript, Python, C#, C++ & Rust User 
 </br>
-| GCP, Node, React, PlatformIO, Robotics & Automations 
+📌 GCP, Node, React, PlatformIO, Robotics & Automations 
 </br>
-| [Myssa Tech](https://myssatech.com) Founder & CEO
+📌 [Myssa Tech](https://myssatech.com) Founder & CEO
 </br>
 
 Mostly spend on time in designing, solving circuits, fixing bugs, learning new things and debugging codes 😂
