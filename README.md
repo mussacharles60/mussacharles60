@@ -51,7 +51,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
  
 </p> -->
 <!-- [![committers.top badge](https://user-badge.committers.top/tanzania_private/mussacharles60.svg)](https://user-badge.committers.top/tanzania_private/mussacharles60) -->
-#### Platform & Tools
+📎 #### Platform & Tools
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 <!-- [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11) -->
@@ -69,7 +69,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 
 
-#### Connect with me
+📎#### Connect with me
 
 <p style="background: #fff;">
   <a href="https://dev.to/mussacharles60" target="blank">
@@ -162,7 +162,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
   
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p> -->
-#### Stats
+📎#### Stats
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mussacharles60" alt="trophy" />
@@ -205,7 +205,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
 [![@mussacharles60's Holopin board](https://holopin.me/mussacharles60)](https://holopin.io/@mussacharles60)
 --- -->
 <!-- <p> *-*-*-******** Let It Happen... 🙏 ********-*-*-* </p> -->
-### Let It Happen....!!  🙏
+📎### Let It Happen....!!  🙏
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussacharles60&label=Profile%20views&color=0e75b6&style=flat" alt="mussacharles60" /> </p> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https:/github-profile-trophy.vercel.app/?username=mussacharles60" alt="mussacharles60" /> </a> </p> 
