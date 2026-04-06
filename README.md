@@ -33,7 +33,7 @@ Mostly spend on time in designing, solving circuits, fixing bugs, learning new t
 
 <!--- 👨‍💻 Major working on [Project Myssa](https://myssa.io)-->
 
-- 👨‍💻 Major working on [BusinessOS Project](https://business.myssa.io)
+- 👨‍💻 Major working on [BusinessOS Project](https://business.myssa.io) & AIprojects
 
 - 👨‍💻 You can view my projects through [linktree](https://linktr.ee/mussacharles60), [instagram](https://instagram.com/mussacharles60) or [facebook](https://facebook.com/mussacharles60) 
 
