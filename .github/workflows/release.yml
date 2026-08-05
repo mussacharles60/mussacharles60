@@ -30,7 +30,7 @@ jobs:
         #   token: # optional, default is
         
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark
@@ -38,7 +38,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v1.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=20&show_icons=true&theme=dark&layout=pie
@@ -46,7 +46,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@v1.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=StepperShiftRegister74HC595&theme=dark
